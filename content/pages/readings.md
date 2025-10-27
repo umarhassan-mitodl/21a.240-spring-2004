@@ -211,7 +211,7 @@ Eglash, Ron. and Julian Bleecker. "The Race for Cyberspace: Information Technolo
 Citizenship, Cyborgs, Model Minorities and Border Crossings
 {{< tdclose >}}{{< tdopen >}}
 
-Wong, Cheuk-Yin. [The Los Alamos Incident and its Effects on Chinese-American Scientists](http://flux.aps.org/meetings/YR00/APR00/abs/S610004.html).
+Wong, Cheuk-Yin. {{% resource_link "e15f30c4-72bf-48fb-a9a6-ff4fddc8c826" "The Los Alamos Incident and its Effects on Chinese-American Scientists" %}}.
 
 Masco, Joseph. "Lie Detectors: On Secrets and Hypersecurity in Los Alamos." *Public Culture* 14, no. 3 (2002): 441-467.
 
